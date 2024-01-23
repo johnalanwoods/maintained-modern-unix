@@ -6,7 +6,7 @@
   </h1>
   <p align="center">A <code>cat</code> clone with syntax highlighting and Git integration.</p>
   <p align="center">
-    <img src="https://camo.githubusercontent.com/c436c206f2c86605ab2f9fb632dd485afc05fccbf14af472770b0c59d876c9cc/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67" width="600" />
+    <img src="https://camo.githubusercontent.com/be35879c510cea3111901d01e4af4d7e8f38fbb7c56a49ca711f07edf1b2d6fd/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67" width="600" />
   </p>
 </p>
 
