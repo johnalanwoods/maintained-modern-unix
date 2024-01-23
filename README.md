@@ -281,3 +281,12 @@
     <img src="https://raw.githubusercontent.com/mr-karan/doggo/main/www/static/doggo.png" width="700" />
   </p>
 </p>
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/slavaGanzin/await"><code>await</code></a>
+  </h1>
+  <p align="center">32K, small memory footprint, single binary that run list of commands in parallel and waits for their termination</p>
+  <p align="center">
+    <img src="https://github.com/slavaGanzin/await/raw/main/demo/1.gif" width="700" />
+  </p>
+</p>
