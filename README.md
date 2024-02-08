@@ -25,6 +25,7 @@
 |        [`jq`][jq]        | `sed` for JSON data.                                                                                               | ![_][jq-ghst] ![_][jq-lang] ![_][jq-ghlc]                      | <img width="300" src="./screenshots/jq.png" />        |
 |       [`lsd`][lsd]       | The next gen file listing command. Backwards compatible with `ls`.                                                 | ![_][lsd-ghst] ![_][lsd-lang] ![_][lsd-ghlc]                   | <img width="300" src="./screenshots/lsd.png" />       |
 |     [`mcfly`][mcfly]     | Fly through your shell `history`. Great Scott! .                                                                   | ![_][mcfly-ghst] ![_][mcfly-lang] ![_][mcfly-ghlc]             | <img width="300" src="./screenshots/mcfly.png" />     |
+|       [`mtr`][mtr]       | A network diagnostic tool, combining functionality of `traceroute` and `ping`                                      | ![_][mtr-ghst] ![_][mtr-lang] ![_][mtr-ghlc]                   | <img width="300" src="./screenshots/mtr.png" />       |
 |     [`procs`][procs]     | A modern replacement for `ps` written in Rust.                                                                     | ![_][procs-ghst] ![_][procs-lang] ![_][procs-ghlc]             | <img width="300" src="./screenshots/procs.png" />     |
 |   [`ripgrep`][ripgrep]   | An extremely fast alternative to `grep` that respects your gitignore.                                              | ![_][ripgrep-ghst] ![_][ripgrep-lang] ![_][ripgrep-ghlc]       | <img width="300" src="./screenshots/ripgrep.gif" />   |
 |        [`sd`][sd]        | An intuitive find & replace CLI (`sed` alternative).                                                               | ![_][sd-ghst] ![_][sd-lang] ![_][sd-ghlc]                      | <img width="300" src="./screenshots/sd.png" />        |
@@ -194,6 +195,13 @@
 [mcfly-ghlc]: https://img.shields.io/github/last-commit/cantino/mcfly?label=%F0%9F%92%BB
 [mcfly-ghst]: https://img.shields.io/github/stars/cantino/mcfly?label=%E2%AD%90
 [mcfly-lang]: https://img.shields.io/github/languages/top/cantino/mcfly
+
+<!--mtr -->
+
+[mtr]: https://github.com/traviscross/mtr
+[mtr-ghlc]: https://img.shields.io/github/last-commit/traviscross/mtr?label=%F0%9F%92%BB
+[mtr-ghst]: https://img.shields.io/github/stars/traviscross/mtr?label=%E2%AD%90
+[mtr-lang]: https://img.shields.io/github/languages/top/traviscross/mtr
 
 <!--procs -->
 
