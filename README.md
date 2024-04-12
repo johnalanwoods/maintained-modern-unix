@@ -28,6 +28,7 @@
 |       [`mtr`][mtr]       | A network diagnostic tool, combining functionality of `traceroute` and `ping`                                      | ![_][mtr-ghst] ![_][mtr-lang] ![_][mtr-ghlc]                   | <img width="300" src="./screenshots/mtr.png" />       |
 |     [`procs`][procs]     | A modern replacement for `ps` written in Rust.                                                                     | ![_][procs-ghst] ![_][procs-lang] ![_][procs-ghlc]             | <img width="300" src="./screenshots/procs.png" />     |
 |   [`ripgrep`][ripgrep]   | An extremely fast alternative to `grep` that respects your gitignore.                                              | ![_][ripgrep-ghst] ![_][ripgrep-lang] ![_][ripgrep-ghlc]       | <img width="300" src="./screenshots/ripgrep.gif" />   |
+| [`ripgrep-all`][ripgrep-all] | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.                            | ![_][ripgrep-all-ghst] ![_][ripgrep-all-lang] ![_][ripgrep-all-ghlc] | <img width="300" src="./screenshots/ripgrep-all.png" /> |
 |   [`rustscan`][rustscan]   | The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). `nmap` alternative.                      | ![_][rustscan-ghst] ![_][rustscan-lang] ![_][rustscan-ghlc]       | <img width="300" src="./screenshots/rustscan.gif" />   |
 |        [`sd`][sd]        | An intuitive find & replace CLI (`sed` alternative).                                                               | ![_][sd-ghst] ![_][sd-lang] ![_][sd-ghlc]                      | <img width="300" src="./screenshots/sd.png" />        |
 |      [`tldr`][tldr]      | A community effort to simplify `man` pages with practical examples.                                                | ![_][tldr-ghst] ![_][tldr-lang] ![_][tldr-ghlc]                | <img width="300" src="./screenshots/tldr.png" />      |
@@ -217,6 +218,13 @@
 [ripgrep-ghlc]: https://img.shields.io/github/last-commit/BurntSushi/ripgrep?label=%F0%9F%92%BB
 [ripgrep-ghst]: https://img.shields.io/github/stars/BurntSushi/ripgrep?label=%E2%AD%90
 [ripgrep-lang]: https://img.shields.io/github/languages/top/BurntSushi/ripgrep
+
+<!--ripgrep-all -->
+
+[ripgrep-all]: https://github.com/phiresky/ripgrep-all
+[ripgrep-all-ghlc]: https://img.shields.io/github/last-commit/phiresky/ripgrep-all?label=%F0%9F%92%BB
+[ripgrep-all-ghst]: https://img.shields.io/github/stars/phiresky/ripgrep-all?label=%E2%AD%90
+[ripgrep-all-lang]: https://img.shields.io/github/languages/top/phiresky/ripgrep-all
 
 <!--rustscan -->
 
