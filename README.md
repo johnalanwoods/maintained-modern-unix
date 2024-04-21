@@ -26,6 +26,7 @@
 |       [`lsd`][lsd]       | The next gen file listing command. Backwards compatible with `ls`.                                                 | ![_][lsd-ghst] ![_][lsd-lang] ![_][lsd-ghlc]                   | <img width="300" src="./screenshots/lsd.png" />       |
 |     [`mcfly`][mcfly]     | Fly through your shell `history`. Great Scott! .                                                                   | ![_][mcfly-ghst] ![_][mcfly-lang] ![_][mcfly-ghlc]             | <img width="300" src="./screenshots/mcfly.png" />     |
 |       [`mtr`][mtr]       | A network diagnostic tool, combining functionality of `traceroute` and `ping`                                      | ![_][mtr-ghst] ![_][mtr-lang] ![_][mtr-ghlc]                   | <img width="300" src="./screenshots/mtr.png" />       |
+|       [`pls`][pls]       | `pls` is a prettier and powerful `ls(1)` for the pros.                                                             | ![_][pls-ghst] ![_][pls-lang] ![_][pls-ghlc]                   | <img width="300" src="./screenshots/pls.png" />       |
 |     [`procs`][procs]     | A modern replacement for `ps` written in Rust.                                                                     | ![_][procs-ghst] ![_][procs-lang] ![_][procs-ghlc]             | <img width="300" src="./screenshots/procs.png" />     |
 |   [`ripgrep`][ripgrep]   | An extremely fast alternative to `grep` that respects your gitignore.                                              | ![_][ripgrep-ghst] ![_][ripgrep-lang] ![_][ripgrep-ghlc]       | <img width="300" src="./screenshots/ripgrep.gif" />   |
 | [`ripgrep-all`][ripgrep-all] | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.                            | ![_][ripgrep-all-ghst] ![_][ripgrep-all-lang] ![_][ripgrep-all-ghlc] | <img width="300" src="./screenshots/ripgrep-all.png" /> |
@@ -204,6 +205,13 @@
 [mtr-ghlc]: https://img.shields.io/github/last-commit/traviscross/mtr?label=%F0%9F%92%BB
 [mtr-ghst]: https://img.shields.io/github/stars/traviscross/mtr?label=%E2%AD%90
 [mtr-lang]: https://img.shields.io/github/languages/top/traviscross/mtr
+
+<!--pls -->
+
+[pls]: https://github.com/pls-rs/pls
+[pls-ghlc]: https://img.shields.io/github/last-commit/pls-rs/pls?label=%F0%9F%92%BB
+[pls-ghst]: https://img.shields.io/github/stars/pls-rs/pls?label=%E2%AD%90
+[pls-lang]: https://img.shields.io/github/languages/top/pls-rs/pls
 
 <!--procs -->
 
