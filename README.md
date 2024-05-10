@@ -33,6 +33,7 @@
 |    [`rustscan`][rustscan]    | The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). `nmap` alternative.                        | ![_][rustscan-ghst] ![_][rustscan-lang] ![_][rustscan-ghlc]          | <img alt="rustscan-preview" width="300" src="./screenshots/rustscan.gif" />   |
 |          [`sd`][sd]          | An intuitive find & replace CLI (`sed` alternative).                                                               | ![_][sd-ghst] ![_][sd-lang] ![_][sd-ghlc]                            | <img alt="sd-preview" width="300" src="./screenshots/sd.png" />               |
 |        [`tldr`][tldr]        | A community effort to simplify `man` pages with practical examples.                                                | ![_][tldr-ghst] ![_][tldr-lang] ![_][tldr-ghlc]                      | <img alt="tldr-preview" width="300" src="./screenshots/tldr.png" />           |
+|      [`trashy`][trashy]      | a cli system trash manager, alternative to rm and trash-cli                                                        | ![_][trashy-ghst] ![_][trashy-lang] ![_][trashy-ghlc]                | <img alt="trashy-preview" width="300" src="./screenshots/trashy.gif" />       |
 |          [`xh`][xh]          | A friendly and fast tool for sending HTTP requests.                                                                | ![_][xh-ghst] ![_][xh-lang] ![_][xh-ghlc]                            | <img alt="xh-preview" width="300" src="./screenshots/xh.gif" />               |
 |      [`zoxide`][zoxide]      | A smarter `cd` command inspired by `z`.                                                                            | ![_][zoxide-ghst] ![_][zoxide-lang] ![_][zoxide-ghlc]                | <img alt="zoxide-preview" width="300" src="./screenshots/zoxide.riff" />      |
 
@@ -254,6 +255,13 @@
 [tldr-ghlc]: https://img.shields.io/github/last-commit/tldr-pages/tldr?label=%F0%9F%92%BB
 [tldr-ghst]: https://img.shields.io/github/stars/tldr-pages/tldr?label=%E2%AD%90
 [tldr-lang]: https://img.shields.io/github/languages/top/tldr-pages/tldr
+
+<!--trashy -->
+
+[trashy]: https://github.com/oberblastmeister/trashy
+[trashy-ghlc]: https://img.shields.io/github/last-commit/oberblastmeister/trashy?label=%F0%9F%92%BB
+[trashy-ghst]: https://img.shields.io/github/stars/oberblastmeister/trashy?label=%E2%AD%90
+[trashy-lang]: https://img.shields.io/github/languages/top/oberblastmeister/trashy
 
 <!--xh -->
 
