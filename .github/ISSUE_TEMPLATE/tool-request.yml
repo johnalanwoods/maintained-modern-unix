@@ -31,7 +31,7 @@ body:
       placeholder: e.g. a cli system trash manager, alternative to rm and trash-cli
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: stars
     attributes:
       label: Stars
@@ -39,7 +39,7 @@ body:
       placeholder: e.g. https://img.shields.io/github/stars/oberblastmeister/trashy?label=%E2%AD%90
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: status
     attributes:
       label: Status
@@ -47,7 +47,7 @@ body:
       placeholder: e.g. https://img.shields.io/github/last-commit/oberblastmeister/trashy?label=%F0%9F%92%BB
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: language
     attributes:
       label: Language
@@ -55,15 +55,11 @@ body:
       placeholder: e.g. https://img.shields.io/github/languages/top/oberblastmeister/trashy
     validations:
       required: true
-  - type: markdown
+  - type: textarea
+    id: preview
     attributes:
-      value: |
-        ### Preview:
-
-        > Link to tool's image/gif preview
-
-        <!--
-          e.g.: 
-
-          ![preview](https://raw.githubusercontent.com/oberblastmeister/trashy/master/doc/trashy_demo_1.gif)
-        -->
+      label: Preview
+      description: Provide a link to tool's image/gif preview
+      placeholder: e.g. ![preview](https://raw.githubusercontent.com/oberblastmeister/trashy/master/doc/trashy_demo_1.gif)
+    validations:
+      required: true
