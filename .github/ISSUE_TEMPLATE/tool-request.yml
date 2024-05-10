@@ -1,0 +1,69 @@
+name: Tool request
+description: File a tool request
+title: "[add]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        <!-- Thanks for taking the time to fill out this tool request! -->
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Please name the tool
+      placeholder: e.g. trashy
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Provide url to the source code
+      placeholder: e.g. https://github.com/oberblastmeister/trashy
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a description for the tool
+      placeholder: e.g. a cli system trash manager, alternative to rm and trash-cli
+    validations:
+      required: true
+  - type: input
+    id: stars
+    attributes:
+      label: Stars
+      description: Provide a link to stars badge
+      placeholder: e.g. https://img.shields.io/github/stars/oberblastmeister/trashy?label=%E2%AD%90
+    validations:
+      required: true
+  - type: input
+    id: status
+    attributes:
+      label: Status
+      description: Provide a link to status badge
+      placeholder: e.g. https://img.shields.io/github/last-commit/oberblastmeister/trashy?label=%F0%9F%92%BB
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: Provide a link to language badge
+      placeholder: e.g. https://img.shields.io/github/languages/top/oberblastmeister/trashy
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ### Preview:
+
+        > Link to tool's image/gif preview
+
+        <!--
+          e.g.: 
+
+          ![preview](https://raw.githubusercontent.com/oberblastmeister/trashy/master/doc/trashy_demo_1.gif)
+        -->
