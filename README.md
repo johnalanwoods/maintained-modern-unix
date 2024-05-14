@@ -24,6 +24,7 @@
 |      [`httpie`][httpie]      | A modern, user-friendly command-line HTTP client for the API era.                                                  | ![_][httpie-ghst] ![_][httpie-lang] ![_][httpie-ghlc]                | <img alt="httpie-preview" width="300" src="./screenshots/httpie.gif" />       |
 |   [`hyperfine`][hyperfine]   | A command-line benchmarking tool.                                                                                  | ![_][hyperfine-ghst] ![_][hyperfine-lang] ![_][hyperfine-ghlc]       | <img alt="hyperfine-preview" width="300" src="./screenshots/hyperfine.gif" /> |
 |          [`jq`][jq]          | `sed` for JSON data.                                                                                               | ![_][jq-ghst] ![_][jq-lang] ![_][jq-ghlc]                            | <img alt="jq-preview" width="300" src="./screenshots/jq.png" />               |
+|     [`lazygit`][lazygit]     | simple terminal UI for git commands                                                                                | ![_][lazygit-ghst] ![_][lazygit-lang] ![_][lazygit-ghlc]             | <img alt="lazygit-preview" width="300" src="./screenshots/lazygit.gif" />     |
 |         [`lsd`][lsd]         | The next gen file listing command. Backwards compatible with `ls`.                                                 | ![_][lsd-ghst] ![_][lsd-lang] ![_][lsd-ghlc]                         | <img alt="lsd-preview" width="300" src="./screenshots/lsd.png" />             |
 |       [`mcfly`][mcfly]       | Fly through your shell `history`. Great Scott! .                                                                   | ![_][mcfly-ghst] ![_][mcfly-lang] ![_][mcfly-ghlc]                   | <img alt="mcfly-preview" width="300" src="./screenshots/mcfly.png" />         |
 |         [`mtr`][mtr]         | A network diagnostic tool, combining functionality of `traceroute` and `ping`                                      | ![_][mtr-ghst] ![_][mtr-lang] ![_][mtr-ghlc]                         | <img alt="mtr-preview" width="300" src="./screenshots/mtr.png" />             |
@@ -193,6 +194,13 @@
 [jq-ghlc]: https://img.shields.io/github/last-commit/stedolan/jq?label=%F0%9F%92%BB
 [jq-ghst]: https://img.shields.io/github/stars/stedolan/jq?label=%E2%AD%90
 [jq-lang]: https://img.shields.io/github/languages/top/stedolan/jq
+
+<!--lazygit -->
+
+[lazygit]: https://github.com/jesseduffield/lazygit
+[lazygit-ghlc]: https://img.shields.io/github/last-commit/jesseduffield/lazygit?label=%F0%9F%92%BB
+[lazygit-ghst]: https://img.shields.io/github/stars/jesseduffield/lazygit?label=%E2%AD%90
+[lazygit-lang]: https://img.shields.io/github/languages/top/jesseduffield/lazygit
 
 <!--lsd-->
 
