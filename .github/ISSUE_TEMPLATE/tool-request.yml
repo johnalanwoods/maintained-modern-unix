@@ -6,13 +6,20 @@ body:
   - type: markdown
     attributes:
       value: |
-        <!-- Thanks for taking the time to fill out this tool request! -->
+        ### Instructions
+        Thanks for taking the time to fill out this tool request! You can get badges from https://shields.io. You'll need:
+
+        - Stars: eg. `https://img.shields.io/github/stars/USER_NAME/REPO_NAME`
+        - Last Commit: eg. `https://img.shields.io/github/last-commit/USER_NAME/REPO_NAME?label=`
+        - Top Language: eg. `https://img.shields.io/github/languages/top/USER_NAME/REPO_NAME`
+
+        Replace `USER_NAME` & `REPO_NAME` with appropriate values in the following from. Then you may comment out this section.
   - type: input
     id: name
     attributes:
       label: Name
       description: Please name the tool
-      placeholder: e.g. trashy
+      placeholder: eg. trashy
     validations:
       required: true
   - type: input
@@ -20,7 +27,7 @@ body:
     attributes:
       label: Source
       description: Provide url to the source code
-      placeholder: e.g. https://github.com/oberblastmeister/trashy
+      placeholder: eg. https://github.com/oberblastmeister/trashy
     validations:
       required: true
   - type: textarea
@@ -28,7 +35,7 @@ body:
     attributes:
       label: Description
       description: Provide a description for the tool
-      placeholder: e.g. a cli system trash manager, alternative to rm and trash-cli
+      placeholder: eg. a cli system trash manager, alternative to rm and trash-cli
     validations:
       required: true
   - type: textarea
@@ -36,7 +43,7 @@ body:
     attributes:
       label: Stars
       description: Provide a link to stars badge
-      placeholder: e.g. https://img.shields.io/github/stars/oberblastmeister/trashy?label=%E2%AD%90
+      placeholder: eg. https://img.shields.io/github/stars/oberblastmeister/trashy
     validations:
       required: true
   - type: textarea
@@ -44,7 +51,7 @@ body:
     attributes:
       label: Status
       description: Provide a link to status badge
-      placeholder: e.g. https://img.shields.io/github/last-commit/oberblastmeister/trashy?label=%F0%9F%92%BB
+      placeholder: eg. https://img.shields.io/github/last-commit/oberblastmeister/trashy?label=
     validations:
       required: true
   - type: textarea
@@ -52,7 +59,7 @@ body:
     attributes:
       label: Language
       description: Provide a link to language badge
-      placeholder: e.g. https://img.shields.io/github/languages/top/oberblastmeister/trashy
+      placeholder: eg. https://img.shields.io/github/languages/top/oberblastmeister/trashy
     validations:
       required: true
   - type: textarea
@@ -60,6 +67,6 @@ body:
     attributes:
       label: Preview
       description: Provide a link to tool's image/gif preview
-      placeholder: e.g. ![preview](https://raw.githubusercontent.com/oberblastmeister/trashy/master/doc/trashy_demo_1.gif)
+      placeholder: eg. ![preview](https://raw.githubusercontent.com/oberblastmeister/trashy/master/doc/trashy_demo_1.gif)
     validations:
       required: true
