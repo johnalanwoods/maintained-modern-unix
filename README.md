@@ -44,253 +44,253 @@
 <!--await-->
 
 [await]: https://github.com/slavaGanzin/await
-[await-ghlc]: https://img.shields.io/github/last-commit/slavaGanzin/await?label=%F0%9F%92%BB
-[await-ghst]: https://img.shields.io/github/stars/slavaGanzin/await?label=%E2%AD%90
+[await-ghlc]: https://img.shields.io/github/last-commit/slavaGanzin/await?label=
+[await-ghst]: https://img.shields.io/github/stars/slavaGanzin/await
 [await-lang]: https://img.shields.io/github/languages/top/slavaGanzin/await
 
 <!--bat-->
 
 [bat]: https://github.com/sharkdp/bat
-[bat-ghlc]: https://img.shields.io/github/last-commit/sharkdp/bat?label=%F0%9F%92%BB
-[bat-ghst]: https://img.shields.io/github/stars/sharkdp/bat?label=%E2%AD%90
+[bat-ghlc]: https://img.shields.io/github/last-commit/sharkdp/bat?label=
+[bat-ghst]: https://img.shields.io/github/stars/sharkdp/bat
 [bat-lang]: https://img.shields.io/github/languages/top/sharkdp/bat
 
 <!--bottom -->
 
 [bottom]: https://github.com/ClementTsang/bottom
-[bottom-ghlc]: https://img.shields.io/github/last-commit/ClementTsang/bottom?label=%F0%9F%92%BB
-[bottom-ghst]: https://img.shields.io/github/stars/ClementTsang/bottom?label=%E2%AD%90
+[bottom-ghlc]: https://img.shields.io/github/last-commit/ClementTsang/bottom?label=
+[bottom-ghst]: https://img.shields.io/github/stars/ClementTsang/bottom
 [bottom-lang]: https://img.shields.io/github/languages/top/ClementTsang/bottom
 
 <!--broot-->
 
 [broot]: https://github.com/Canop/broot
-[broot-ghst]: https://img.shields.io/github/stars/Canop/broot?label=%E2%AD%90
-[broot-ghlc]: https://img.shields.io/github/last-commit/Canop/broot?label=%F0%9F%92%BB
+[broot-ghst]: https://img.shields.io/github/stars/Canop/broot
+[broot-ghlc]: https://img.shields.io/github/last-commit/Canop/broot?label=
 [broot-lang]: https://img.shields.io/github/languages/top/Canop/broot
 
 <!--btop-->
 
 [btop]: https://github.com/aristocratos/btop
-[btop-ghlc]: https://img.shields.io/github/last-commit/aristocratos/btop?label=%F0%9F%92%BB
-[btop-ghst]: https://img.shields.io/github/stars/aristocratos/btop?label=%E2%AD%90
+[btop-ghlc]: https://img.shields.io/github/last-commit/aristocratos/btop?label=
+[btop-ghst]: https://img.shields.io/github/stars/aristocratos/btop
 [btop-lang]: https://img.shields.io/github/languages/top/aristocratos/btop
 
 <!--cheat -->
 
 [cheat]: https://github.com/cheat/cheat
-[cheat-ghlc]: https://img.shields.io/github/last-commit/cheat/cheat?label=%F0%9F%92%BB
-[cheat-ghst]: https://img.shields.io/github/stars/cheat/cheat?label=%E2%AD%90
+[cheat-ghlc]: https://img.shields.io/github/last-commit/cheat/cheat?label=
+[cheat-ghst]: https://img.shields.io/github/stars/cheat/cheat
 [cheat-lang]: https://img.shields.io/github/languages/top/cheat/cheat
 
 <!--choose -->
 
 [choose]: https://github.com/theryangeary/choose
-[choose-ghlc]: https://img.shields.io/github/last-commit/theryangeary/choose?label=%F0%9F%92%BB
-[choose-ghst]: https://img.shields.io/github/stars/theryangeary/choose?label=%E2%AD%90
+[choose-ghlc]: https://img.shields.io/github/last-commit/theryangeary/choose?label=
+[choose-ghst]: https://img.shields.io/github/stars/theryangeary/choose
 [choose-lang]: https://img.shields.io/github/languages/top/theryangeary/choose
 
 <!--curlie -->
 
 [curlie]: https://github.com/rs/curlie
-[curlie-ghlc]: https://img.shields.io/github/last-commit/rs/curlie?label=%F0%9F%92%BB
-[curlie-ghst]: https://img.shields.io/github/stars/rs/curlie?label=%E2%AD%90
+[curlie-ghlc]: https://img.shields.io/github/last-commit/rs/curlie?label=
+[curlie-ghst]: https://img.shields.io/github/stars/rs/curlie
 [curlie-lang]: https://img.shields.io/github/languages/top/rs/curlie
 
 <!--delta-->
 
 [delta]: https://github.com/dandavison/delta
-[delta-ghst]: https://img.shields.io/github/stars/dandavison/delta?label=%E2%AD%90
-[delta-ghlc]: https://img.shields.io/github/last-commit/dandavison/delta?label=%F0%9F%92%BB
+[delta-ghst]: https://img.shields.io/github/stars/dandavison/delta
+[delta-ghlc]: https://img.shields.io/github/last-commit/dandavison/delta?label=
 [delta-lang]: https://img.shields.io/github/languages/top/dandavison/delta
 
 <!--dog -->
 
 [dog]: https://github.com/ogham/dog
-[dog-ghlc]: https://img.shields.io/github/last-commit/ogham/dog?label=%F0%9F%92%BB
-[dog-ghst]: https://img.shields.io/github/stars/ogham/dog?label=%E2%AD%90
+[dog-ghlc]: https://img.shields.io/github/last-commit/ogham/dog?label=
+[dog-ghst]: https://img.shields.io/github/stars/ogham/dog
 [dog-lang]: https://img.shields.io/github/languages/top/ogham/dog
 
 <!--doggo -->
 
 [doggo]: https://github.com/mr-karan/doggo
-[doggo-ghlc]: https://img.shields.io/github/last-commit/mr-karan/doggo?label=%F0%9F%92%BB
-[doggo-ghst]: https://img.shields.io/github/stars/mr-karan/doggo?label=%E2%AD%90
+[doggo-ghlc]: https://img.shields.io/github/last-commit/mr-karan/doggo?label=
+[doggo-ghst]: https://img.shields.io/github/stars/mr-karan/doggo
 [doggo-lang]: https://img.shields.io/github/languages/top/mr-karan/doggo
 
 <!--dust-->
 
 [dust]: https://github.com/bootandy/dust
-[dust-ghst]: https://img.shields.io/github/stars/bootandy/dust?label=%E2%AD%90
-[dust-ghlc]: https://img.shields.io/github/last-commit/bootandy/dust?label=%F0%9F%92%BB
+[dust-ghst]: https://img.shields.io/github/stars/bootandy/dust
+[dust-ghlc]: https://img.shields.io/github/last-commit/bootandy/dust?label=
 [dust-lang]: https://img.shields.io/github/languages/top/bootandy/dust
 
 <!--duf-->
 
 [duf]: https://github.com/muesli/duf
-[duf-ghst]: https://img.shields.io/github/stars/muesli/duf?label=%E2%AD%90
-[duf-ghlc]: https://img.shields.io/github/last-commit/muesli/duf?label=%F0%9F%92%BB
+[duf-ghst]: https://img.shields.io/github/stars/muesli/duf
+[duf-ghlc]: https://img.shields.io/github/last-commit/muesli/duf?label=
 [duf-lang]: https://img.shields.io/github/languages/top/muesli/duf
 
 <!--eza-->
 
 [eza]: https://github.com/eza-community/eza
-[eza-ghst]: https://img.shields.io/github/stars/eza-community/eza?label=%E2%AD%90
-[eza-ghlc]: https://img.shields.io/github/last-commit/eza-community/eza?label=%F0%9F%92%BB
+[eza-ghst]: https://img.shields.io/github/stars/eza-community/eza
+[eza-ghlc]: https://img.shields.io/github/last-commit/eza-community/eza?label=
 [eza-lang]: https://img.shields.io/github/languages/top/eza-community/eza
 
 <!--fd -->
 
 [fd]: https://github.com/sharkdp/fd
-[fd-ghlc]: https://img.shields.io/github/last-commit/sharkdp/fd?label=%F0%9F%92%BB
-[fd-ghst]: https://img.shields.io/github/stars/sharkdp/fd?label=%E2%AD%90
+[fd-ghlc]: https://img.shields.io/github/last-commit/sharkdp/fd?label=
+[fd-ghst]: https://img.shields.io/github/stars/sharkdp/fd
 [fd-lang]: https://img.shields.io/github/languages/top/sharkdp/fd
 
 <!--fzf -->
 
 [fzf]: https://github.com/junegunn/fzf
-[fzf-ghlc]: https://img.shields.io/github/last-commit/junegunn/fzf?label=%F0%9F%92%BB
-[fzf-ghst]: https://img.shields.io/github/stars/junegunn/fzf?label=%E2%AD%90
+[fzf-ghlc]: https://img.shields.io/github/last-commit/junegunn/fzf?label=
+[fzf-ghst]: https://img.shields.io/github/stars/junegunn/fzf
 [fzf-lang]: https://img.shields.io/github/languages/top/junegunn/fzf
 
 <!--glances -->
 
 [glances]: https://github.com/nicolargo/glances
-[glances-ghlc]: https://img.shields.io/github/last-commit/nicolargo/glances?label=%F0%9F%92%BB
-[glances-ghst]: https://img.shields.io/github/stars/nicolargo/glances?label=%E2%AD%90
+[glances-ghlc]: https://img.shields.io/github/last-commit/nicolargo/glances?label=
+[glances-ghst]: https://img.shields.io/github/stars/nicolargo/glances
 [glances-lang]: https://img.shields.io/github/languages/top/nicolargo/glances
 
 <!--gping -->
 
 [gping]: https://github.com/orf/gping
-[gping-ghlc]: https://img.shields.io/github/last-commit/orf/gping?label=%F0%9F%92%BB
-[gping-ghst]: https://img.shields.io/github/stars/orf/gping?label=%E2%AD%90
+[gping-ghlc]: https://img.shields.io/github/last-commit/orf/gping?label=
+[gping-ghst]: https://img.shields.io/github/stars/orf/gping
 [gping-lang]: https://img.shields.io/github/languages/top/orf/gping
 
 <!--gtop -->
 
 [gtop]: https://github.com/aksakalli/gtop
-[gtop-ghlc]: https://img.shields.io/github/last-commit/aksakalli/gtop?label=%F0%9F%92%BB
-[gtop-ghst]: https://img.shields.io/github/stars/aksakalli/gtop?label=%E2%AD%90
+[gtop-ghlc]: https://img.shields.io/github/last-commit/aksakalli/gtop?label=
+[gtop-ghst]: https://img.shields.io/github/stars/aksakalli/gtop
 [gtop-lang]: https://img.shields.io/github/languages/top/aksakalli/gtop
 
 <!--hyperfine -->
 
 [hyperfine]: https://github.com/sharkdp/hyperfine
-[hyperfine-ghlc]: https://img.shields.io/github/last-commit/sharkdp/hyperfine?label=%F0%9F%92%BB
-[hyperfine-ghst]: https://img.shields.io/github/stars/sharkdp/hyperfine?label=%E2%AD%90
+[hyperfine-ghlc]: https://img.shields.io/github/last-commit/sharkdp/hyperfine?label=
+[hyperfine-ghst]: https://img.shields.io/github/stars/sharkdp/hyperfine
 [hyperfine-lang]: https://img.shields.io/github/languages/top/sharkdp/hyperfine
 
 <!--httpie -->
 
 [httpie]: https://github.com/httpie/httpie
-[httpie-ghlc]: https://img.shields.io/github/last-commit/httpie/httpie?label=%F0%9F%92%BB
-[httpie-ghst]: https://img.shields.io/github/stars/httpie/httpie?label=%E2%AD%90
+[httpie-ghlc]: https://img.shields.io/github/last-commit/httpie/httpie?label=
+[httpie-ghst]: https://img.shields.io/github/stars/httpie/httpie
 [httpie-lang]: https://img.shields.io/github/languages/top/httpie/httpie
 
 <!--jq -->
 
 [jq]: https://github.com/stedolan/jq
-[jq-ghlc]: https://img.shields.io/github/last-commit/stedolan/jq?label=%F0%9F%92%BB
-[jq-ghst]: https://img.shields.io/github/stars/stedolan/jq?label=%E2%AD%90
+[jq-ghlc]: https://img.shields.io/github/last-commit/stedolan/jq?label=
+[jq-ghst]: https://img.shields.io/github/stars/stedolan/jq
 [jq-lang]: https://img.shields.io/github/languages/top/stedolan/jq
 
 <!--lazygit -->
 
 [lazygit]: https://github.com/jesseduffield/lazygit
-[lazygit-ghlc]: https://img.shields.io/github/last-commit/jesseduffield/lazygit?label=%F0%9F%92%BB
-[lazygit-ghst]: https://img.shields.io/github/stars/jesseduffield/lazygit?label=%E2%AD%90
+[lazygit-ghlc]: https://img.shields.io/github/last-commit/jesseduffield/lazygit?label=
+[lazygit-ghst]: https://img.shields.io/github/stars/jesseduffield/lazygit
 [lazygit-lang]: https://img.shields.io/github/languages/top/jesseduffield/lazygit
 
 <!--lsd-->
 
 [lsd]: https://github.com/Peltoche/lsd
-[lsd-ghst]: https://img.shields.io/github/stars/Peltoche/lsd?label=%E2%AD%90
-[lsd-ghlc]: https://img.shields.io/github/last-commit/Peltoche/lsd?label=%F0%9F%92%BB
+[lsd-ghst]: https://img.shields.io/github/stars/Peltoche/lsd
+[lsd-ghlc]: https://img.shields.io/github/last-commit/Peltoche/lsd?label=
 [lsd-lang]: https://img.shields.io/github/languages/top/Peltoche/lsd
 
 <!--mcfly -->
 
 [mcfly]: https://github.com/cantino/mcfly
-[mcfly-ghlc]: https://img.shields.io/github/last-commit/cantino/mcfly?label=%F0%9F%92%BB
-[mcfly-ghst]: https://img.shields.io/github/stars/cantino/mcfly?label=%E2%AD%90
+[mcfly-ghlc]: https://img.shields.io/github/last-commit/cantino/mcfly?label=
+[mcfly-ghst]: https://img.shields.io/github/stars/cantino/mcfly
 [mcfly-lang]: https://img.shields.io/github/languages/top/cantino/mcfly
 
 <!--mtr -->
 
 [mtr]: https://github.com/traviscross/mtr
-[mtr-ghlc]: https://img.shields.io/github/last-commit/traviscross/mtr?label=%F0%9F%92%BB
-[mtr-ghst]: https://img.shields.io/github/stars/traviscross/mtr?label=%E2%AD%90
+[mtr-ghlc]: https://img.shields.io/github/last-commit/traviscross/mtr?label=
+[mtr-ghst]: https://img.shields.io/github/stars/traviscross/mtr
 [mtr-lang]: https://img.shields.io/github/languages/top/traviscross/mtr
 
 <!--pls -->
 
 [pls]: https://github.com/pls-rs/pls
-[pls-ghlc]: https://img.shields.io/github/last-commit/pls-rs/pls?label=%F0%9F%92%BB
-[pls-ghst]: https://img.shields.io/github/stars/pls-rs/pls?label=%E2%AD%90
+[pls-ghlc]: https://img.shields.io/github/last-commit/pls-rs/pls?label=
+[pls-ghst]: https://img.shields.io/github/stars/pls-rs/pls
 [pls-lang]: https://img.shields.io/github/languages/top/pls-rs/pls
 
 <!--procs -->
 
 [procs]: https://github.com/dalance/procs
-[procs-ghlc]: https://img.shields.io/github/last-commit/dalance/procs?label=%F0%9F%92%BB
-[procs-ghst]: https://img.shields.io/github/stars/dalance/procs?label=%E2%AD%90
+[procs-ghlc]: https://img.shields.io/github/last-commit/dalance/procs?label=
+[procs-ghst]: https://img.shields.io/github/stars/dalance/procs
 [procs-lang]: https://img.shields.io/github/languages/top/dalance/procs
 
 <!--ripgrep -->
 
 [ripgrep]: https://github.com/BurntSushi/ripgrep
-[ripgrep-ghlc]: https://img.shields.io/github/last-commit/BurntSushi/ripgrep?label=%F0%9F%92%BB
-[ripgrep-ghst]: https://img.shields.io/github/stars/BurntSushi/ripgrep?label=%E2%AD%90
+[ripgrep-ghlc]: https://img.shields.io/github/last-commit/BurntSushi/ripgrep?label=
+[ripgrep-ghst]: https://img.shields.io/github/stars/BurntSushi/ripgrep
 [ripgrep-lang]: https://img.shields.io/github/languages/top/BurntSushi/ripgrep
 
 <!--ripgrep-all -->
 
 [ripgrep-all]: https://github.com/phiresky/ripgrep-all
-[ripgrep-all-ghlc]: https://img.shields.io/github/last-commit/phiresky/ripgrep-all?label=%F0%9F%92%BB
-[ripgrep-all-ghst]: https://img.shields.io/github/stars/phiresky/ripgrep-all?label=%E2%AD%90
+[ripgrep-all-ghlc]: https://img.shields.io/github/last-commit/phiresky/ripgrep-all?label=
+[ripgrep-all-ghst]: https://img.shields.io/github/stars/phiresky/ripgrep-all
 [ripgrep-all-lang]: https://img.shields.io/github/languages/top/phiresky/ripgrep-all
 
 <!--rustscan -->
 
 [rustscan]: https://github.com/RustScan/RustScan
-[rustscan-ghlc]: https://img.shields.io/github/last-commit/RustScan/RustScan?label=%F0%9F%92%BB
-[rustscan-ghst]: https://img.shields.io/github/stars/RustScan/RustScan?label=%E2%AD%90
+[rustscan-ghlc]: https://img.shields.io/github/last-commit/RustScan/RustScan?label=
+[rustscan-ghst]: https://img.shields.io/github/stars/RustScan/RustScan
 [rustscan-lang]: https://img.shields.io/github/languages/top/RustScan/RustScan
 
 <!--sd -->
 
 [sd]: https://github.com/chmln/sd
-[sd-ghlc]: https://img.shields.io/github/last-commit/chmln/sd?label=%F0%9F%92%BB
-[sd-ghst]: https://img.shields.io/github/stars/chmln/sd?label=%E2%AD%90
+[sd-ghlc]: https://img.shields.io/github/last-commit/chmln/sd?label=
+[sd-ghst]: https://img.shields.io/github/stars/chmln/sd
 [sd-lang]: https://img.shields.io/github/languages/top/chmln/sd
 
 <!--tldr -->
 
 [tldr]: https://github.com/tldr-pages/tldr
-[tldr-ghlc]: https://img.shields.io/github/last-commit/tldr-pages/tldr?label=%F0%9F%92%BB
-[tldr-ghst]: https://img.shields.io/github/stars/tldr-pages/tldr?label=%E2%AD%90
+[tldr-ghlc]: https://img.shields.io/github/last-commit/tldr-pages/tldr?label=
+[tldr-ghst]: https://img.shields.io/github/stars/tldr-pages/tldr
 [tldr-lang]: https://img.shields.io/github/languages/top/tldr-pages/tldr
 
 <!--trashy -->
 
 [trashy]: https://github.com/oberblastmeister/trashy
-[trashy-ghlc]: https://img.shields.io/github/last-commit/oberblastmeister/trashy?label=%F0%9F%92%BB
-[trashy-ghst]: https://img.shields.io/github/stars/oberblastmeister/trashy?label=%E2%AD%90
+[trashy-ghlc]: https://img.shields.io/github/last-commit/oberblastmeister/trashy?label=
+[trashy-ghst]: https://img.shields.io/github/stars/oberblastmeister/trashy
 [trashy-lang]: https://img.shields.io/github/languages/top/oberblastmeister/trashy
 
 <!--xh -->
 
 [xh]: https://github.com/ducaale/xh
-[xh-ghlc]: https://img.shields.io/github/last-commit/ducaale/xh?label=%F0%9F%92%BB
-[xh-ghst]: https://img.shields.io/github/stars/ducaale/xh?label=%E2%AD%90
+[xh-ghlc]: https://img.shields.io/github/last-commit/ducaale/xh?label=
+[xh-ghst]: https://img.shields.io/github/stars/ducaale/xh
 [xh-lang]: https://img.shields.io/github/languages/top/ducaale/xh
 
 <!--zoxide -->
 
 [zoxide]: https://github.com/ajeetdsouza/zoxide
-[zoxide-ghlc]: https://img.shields.io/github/last-commit/ajeetdsouza/zoxide?label=%F0%9F%92%BB
-[zoxide-ghst]: https://img.shields.io/github/stars/ajeetdsouza/zoxide?label=%E2%AD%90
+[zoxide-ghlc]: https://img.shields.io/github/last-commit/ajeetdsouza/zoxide?label=
+[zoxide-ghst]: https://img.shields.io/github/stars/ajeetdsouza/zoxide
 [zoxide-lang]: https://img.shields.io/github/languages/top/ajeetdsouza/zoxide
 
 <!--GH => GitHub -->
