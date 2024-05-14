@@ -12,7 +12,6 @@
 |      [`curlie`][curlie]      | The power of `curl`, the ease of use of `httpie`.                                                                  | ![_][curlie-ghst] ![_][curlie-lang] ![_][curlie-ghlc]                | <img alt="curlie-preview" width="300" src="./screenshots/curlie.png" />       |
 |       [`delta`][delta]       | A viewer for `git` and `diff` output.                                                                              | ![_][delta-ghst] ![_][delta-lang] ![_][delta-ghlc]                   | <img alt="delta-preview" width="300" src="./screenshots/delta.png" />         |
 |         [`dog`][dog]         | A user-friendly command-line DNS client. `dig` on steroids.                                                        | ![_][dog-ghst] ![_][dog-lang] ![_][dog-ghlc]                         | <img alt="dog-preview" width="300" src="./screenshots/dog.png" />             |
-|       [`doggo`][doggo]       | 🐶 Command-line DNS client for humans. `dig` on steroids.                                                           | ![_][doggo-ghst] ![_][doggo-lang] ![_][doggo-ghlc]                   | <img alt="doggo-preview" width="300" src="./screenshots/doggo.png" />         |
 |         [`duf`][duf]         | A better `df` alternative.                                                                                         | ![_][duf-ghst] ![_][duf-lang] ![_][duf-ghlc]                         | <img alt="duf-preview" width="300" src="./screenshots/duf.png" />             |
 |        [`dust`][dust]        | A more intuitive version of `du` written in rust.                                                                  | ![_][dust-ghst] ![_][dust-lang] ![_][dust-ghlc]                      | <img alt="dust-preview" width="300" src="./screenshots/dust.png" />           |
 |         [`eza`][eza]         | A modern, maintained replacement for `ls`, built on `exa`.                                                         | ![_][eza-ghst] ![_][eza-lang] ![_][eza-ghlc]                         | <img alt="eza-preview" width="300" src="./screenshots/eza.png" />             |
@@ -110,13 +109,6 @@
 [dog-ghlc]: https://img.shields.io/github/last-commit/ogham/dog?label=
 [dog-ghst]: https://img.shields.io/github/stars/ogham/dog
 [dog-lang]: https://img.shields.io/github/languages/top/ogham/dog
-
-<!--doggo -->
-
-[doggo]: https://github.com/mr-karan/doggo
-[doggo-ghlc]: https://img.shields.io/github/last-commit/mr-karan/doggo?label=
-[doggo-ghst]: https://img.shields.io/github/stars/mr-karan/doggo
-[doggo-lang]: https://img.shields.io/github/languages/top/mr-karan/doggo
 
 <!--dust-->
 
