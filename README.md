@@ -6,6 +6,7 @@
 |         [`bat`][bat]         | A `cat` clone with syntax highlighting and Git integration.                                                        | ![_][bat-ghst] ![_][bat-lang] ![_][bat-ghlc]                         | <img alt="bat-preview" width="300" src="./screenshots/bat.png" />             |
 |      [`bottom`][bottom]      | Yet another cross-platform graphical process/system monitor.                                                       | ![_][bottom-ghst] ![_][bottom-lang] ![_][bottom-ghlc]                | <img alt="bottom-preview" width="300" src="./screenshots/bottom.gif" />       |
 |       [`broot`][broot]       | A new way to see and navigate directory `tree`s.                                                                   | ![_][broot-ghst] ![_][broot-lang] ![_][broot-ghlc]                   | <img alt="broot-preview" width="300" src="./screenshots/broot.png" />         |
+|        [`btop`][btop]        | A monitor of resources                                                                                             | ![_][btop-ghst] ![_][btop-lang] ![_][btop-ghlc]                      | <img alt="btop-preview" width="300" src="./screenshots/btop.png" />           |
 |       [`cheat`][cheat]       | Create and view interactive cheatsheets on the command-line.                                                       | ![_][cheat-ghst] ![_][cheat-lang] ![_][cheat-ghlc]                   | <img alt="cheat-preview" width="300" src="./screenshots/cheat.png" />         |
 |      [`choose`][choose]      | A human-friendly and fast alternative to `cut` and (sometimes) `awk` .                                             | ![_][choose-ghst] ![_][choose-lang] ![_][choose-ghlc]                | <img alt="choose-preview" width="300" src="./screenshots/choose.png" />       |
 |      [`curlie`][curlie]      | The power of `curl`, the ease of use of `httpie`.                                                                  | ![_][curlie-ghst] ![_][curlie-lang] ![_][curlie-ghlc]                | <img alt="curlie-preview" width="300" src="./screenshots/curlie.png" />       |
@@ -66,6 +67,13 @@
 [broot-ghst]: https://img.shields.io/github/stars/Canop/broot?label=%E2%AD%90
 [broot-ghlc]: https://img.shields.io/github/last-commit/Canop/broot?label=%F0%9F%92%BB
 [broot-lang]: https://img.shields.io/github/languages/top/Canop/broot
+
+<!--btop-->
+
+[btop]: https://github.com/aristocratos/btop
+[btop-ghlc]: https://img.shields.io/github/last-commit/aristocratos/btop?label=%F0%9F%92%BB
+[btop-ghst]: https://img.shields.io/github/stars/aristocratos/btop?label=%E2%AD%90
+[btop-lang]: https://img.shields.io/github/languages/top/aristocratos/btop
 
 <!--cheat -->
 
