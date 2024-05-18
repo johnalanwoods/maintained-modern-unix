@@ -13,7 +13,6 @@
 |      [`curlie`][curlie]      | The power of `curl`, the ease of use of `httpie`.                                                                  | ![_][curlie-ghst] ![_][curlie-lang] ![_][curlie-ghlc]                | <img alt="curlie-preview" width="300" src="./screenshots/curlie.png" />       |
 |       [`delta`][delta]       | A viewer for `git` and `diff` output.                                                                              | ![_][delta-ghst] ![_][delta-lang] ![_][delta-ghlc]                   | <img alt="delta-preview" width="300" src="./screenshots/delta.png" />         |
 |   [`diffutils`][diffutils]   | Drop-in replacement of [`diffutils`][gnu-diffutils] in Rust (by [`uutils`][uutils])                                | ![_][diffutils-ghst] ![_][diffutils-lang] ![_][diffutils-ghlc]       | NA                                                                            |
-|         [`dog`][dog]         | A user-friendly command-line DNS client. `dig` on steroids.                                                        | ![_][dog-ghst] ![_][dog-lang] ![_][dog-ghlc]                         | <img alt="dog-preview" width="300" src="./screenshots/dog.png" />             |
 |       [`doggo`][doggo]       | 🐶 Command-line DNS client for humans. `dig` on steroids.                                                           | ![_][doggo-ghst] ![_][doggo-lang] ![_][doggo-ghlc]                   | <img alt="doggo-preview" width="300" src="./screenshots/doggo.png" />         |
 |         [`duf`][duf]         | A better `df` alternative.                                                                                         | ![_][duf-ghst] ![_][duf-lang] ![_][duf-ghlc]                         | <img alt="duf-preview" width="300" src="./screenshots/duf.png" />             |
 |        [`dust`][dust]        | A more intuitive version of `du` written in rust.                                                                  | ![_][dust-ghst] ![_][dust-lang] ![_][dust-ghlc]                      | <img alt="dust-preview" width="300" src="./screenshots/dust.png" />           |
@@ -43,6 +42,13 @@
 |      [`zoxide`][zoxide]      | A smarter `cd` command inspired by `z`.                                                                            | ![_][zoxide-ghst] ![_][zoxide-lang] ![_][zoxide-ghlc]                | <img alt="zoxide-preview" width="300" src="./screenshots/zoxide.riff" />      |
 
 <!--Links-->
+
+<!-- uutils -->
+
+[uutils]: https://uutils.github.io
+[gnu-coreutils]: https://www.gnu.org/software/coreutils
+[gnu-diffutils]: https://www.gnu.org/software/diffutils
+[gnu-findutils]: https://www.gnu.org/software/findutils
 
 <!--await-->
 
@@ -120,13 +126,6 @@
 [diffutils-ghlc]: https://img.shields.io/github/last-commit/uutils/diffutils?label=
 [diffutils-ghst]: https://img.shields.io/github/stars/uutils/diffutils
 [diffutils-lang]: https://img.shields.io/github/languages/top/uutils/diffutils
-
-<!--dog -->
-
-[dog]: https://github.com/ogham/dog
-[dog-ghlc]: https://img.shields.io/github/last-commit/ogham/dog?label=
-[dog-ghst]: https://img.shields.io/github/stars/ogham/dog
-[dog-lang]: https://img.shields.io/github/languages/top/ogham/dog
 
 <!--doggo -->
 
@@ -316,13 +315,6 @@
 [zoxide-ghlc]: https://img.shields.io/github/last-commit/ajeetdsouza/zoxide?label=
 [zoxide-ghst]: https://img.shields.io/github/stars/ajeetdsouza/zoxide
 [zoxide-lang]: https://img.shields.io/github/languages/top/ajeetdsouza/zoxide
-
-<!-- uutils -->
-
-[uutils]: https://uutils.github.io
-[gnu-coreutils]: https://www.gnu.org/software/coreutils
-[gnu-diffutils]: https://www.gnu.org/software/diffutils
-[gnu-findutils]: https://www.gnu.org/software/findutils
 
 <!--GH => GitHub -->
 <!--ST => Stars -->
