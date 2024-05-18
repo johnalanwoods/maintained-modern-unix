@@ -9,14 +9,17 @@
 |        [`btop`][btop]        | A monitor of resources                                                                                             | ![_][btop-ghst] ![_][btop-lang] ![_][btop-ghlc]                      | <img alt="btop-preview" width="300" src="./screenshots/btop.png" />           |
 |       [`cheat`][cheat]       | Create and view interactive cheatsheets on the command-line.                                                       | ![_][cheat-ghst] ![_][cheat-lang] ![_][cheat-ghlc]                   | <img alt="cheat-preview" width="300" src="./screenshots/cheat.png" />         |
 |      [`choose`][choose]      | A human-friendly and fast alternative to `cut` and (sometimes) `awk` .                                             | ![_][choose-ghst] ![_][choose-lang] ![_][choose-ghlc]                | <img alt="choose-preview" width="300" src="./screenshots/choose.png" />       |
+|   [`coreutils`][coreutils]   | Cross-platform Rust rewrite of the GNU [`coreutils`][gnu-coreutils] (by [`uutils`][uutils])                        | ![_][coreutils-ghst] ![_][coreutils-lang] ![_][coreutils-ghlc]       | NA                                                                            |
 |      [`curlie`][curlie]      | The power of `curl`, the ease of use of `httpie`.                                                                  | ![_][curlie-ghst] ![_][curlie-lang] ![_][curlie-ghlc]                | <img alt="curlie-preview" width="300" src="./screenshots/curlie.png" />       |
 |       [`delta`][delta]       | A viewer for `git` and `diff` output.                                                                              | ![_][delta-ghst] ![_][delta-lang] ![_][delta-ghlc]                   | <img alt="delta-preview" width="300" src="./screenshots/delta.png" />         |
+|   [`diffutils`][diffutils]   | Drop-in replacement of [`diffutils`][gnu-diffutils] in Rust (by [`uutils`][uutils])                                | ![_][diffutils-ghst] ![_][diffutils-lang] ![_][diffutils-ghlc]       | NA                                                                            |
 |         [`dog`][dog]         | A user-friendly command-line DNS client. `dig` on steroids.                                                        | ![_][dog-ghst] ![_][dog-lang] ![_][dog-ghlc]                         | <img alt="dog-preview" width="300" src="./screenshots/dog.png" />             |
 |       [`doggo`][doggo]       | 🐶 Command-line DNS client for humans. `dig` on steroids.                                                           | ![_][doggo-ghst] ![_][doggo-lang] ![_][doggo-ghlc]                   | <img alt="doggo-preview" width="300" src="./screenshots/doggo.png" />         |
 |         [`duf`][duf]         | A better `df` alternative.                                                                                         | ![_][duf-ghst] ![_][duf-lang] ![_][duf-ghlc]                         | <img alt="duf-preview" width="300" src="./screenshots/duf.png" />             |
 |        [`dust`][dust]        | A more intuitive version of `du` written in rust.                                                                  | ![_][dust-ghst] ![_][dust-lang] ![_][dust-ghlc]                      | <img alt="dust-preview" width="300" src="./screenshots/dust.png" />           |
 |         [`eza`][eza]         | A modern, maintained replacement for `ls`, built on `exa`.                                                         | ![_][eza-ghst] ![_][eza-lang] ![_][eza-ghlc]                         | <img alt="eza-preview" width="300" src="./screenshots/eza.png" />             |
 |          [`fd`][fd]          | A simple, fast and user-friendly alternative to `find`.                                                            | ![_][fd-ghst] ![_][fd-lang] ![_][fd-ghlc]                            | <img alt="fd-preview" width="300" src="./screenshots/fd.svg" />               |
+|   [`findutils`][findutils]   | Rust implementation of [`findutils`][gnu-findutils] (by [`uutils`][uutils])                                        | ![_][findutils-ghst] ![_][findutils-lang] ![_][findutils-ghlc]       | NA                                                                            |
 |         [`fzf`][fzf]         | A general purpose command-line fuzzy finder.                                                                       | ![_][fzf-ghst] ![_][fzf-lang] ![_][fzf-ghlc]                         | <img alt="fzf-preview" width="300" src="./screenshots/fzf.png" />             |
 |     [`glances`][glances]     | A `top`/`htop` alternative for most operating systems.                                                             | ![_][glances-ghst] ![_][glances-lang] ![_][glances-ghlc]             | <img alt="glances-preview" width="300" src="./screenshots/glances.png" />     |
 |       [`gping`][gping]       | `ping`, but with a graph.                                                                                          | ![_][gping-ghst] ![_][gping-lang] ![_][gping-ghlc]                   | <img alt="gping-preview" width="300" src="./screenshots/gping.gif" />         |
@@ -90,6 +93,13 @@
 [choose-ghst]: https://img.shields.io/github/stars/theryangeary/choose
 [choose-lang]: https://img.shields.io/github/languages/top/theryangeary/choose
 
+<!-- coreutils -->
+
+[coreutils]: https://github.com/uutils/coreutils
+[coreutils-ghlc]: https://img.shields.io/github/last-commit/uutils/coreutils?label=
+[coreutils-ghst]: https://img.shields.io/github/stars/uutils/coreutils
+[coreutils-lang]: https://img.shields.io/github/languages/top/uutils/coreutils
+
 <!--curlie -->
 
 [curlie]: https://github.com/rs/curlie
@@ -103,6 +113,13 @@
 [delta-ghst]: https://img.shields.io/github/stars/dandavison/delta
 [delta-ghlc]: https://img.shields.io/github/last-commit/dandavison/delta?label=
 [delta-lang]: https://img.shields.io/github/languages/top/dandavison/delta
+
+<!-- diffutils -->
+
+[diffutils]: https://github.com/uutils/diffutils
+[diffutils-ghlc]: https://img.shields.io/github/last-commit/uutils/diffutils?label=
+[diffutils-ghst]: https://img.shields.io/github/stars/uutils/diffutils
+[diffutils-lang]: https://img.shields.io/github/languages/top/uutils/diffutils
 
 <!--dog -->
 
@@ -145,6 +162,13 @@
 [fd-ghlc]: https://img.shields.io/github/last-commit/sharkdp/fd?label=
 [fd-ghst]: https://img.shields.io/github/stars/sharkdp/fd
 [fd-lang]: https://img.shields.io/github/languages/top/sharkdp/fd
+
+<!--findutils -->
+
+[findutils]: https://github.com/uutils/findutils
+[findutils-ghlc]: https://img.shields.io/github/last-commit/uutils/findutils?label=
+[findutils-ghst]: https://img.shields.io/github/stars/uutils/findutils
+[findutils-lang]: https://img.shields.io/github/languages/top/uutils/findutils
 
 <!--fzf -->
 
@@ -292,6 +316,13 @@
 [zoxide-ghlc]: https://img.shields.io/github/last-commit/ajeetdsouza/zoxide?label=
 [zoxide-ghst]: https://img.shields.io/github/stars/ajeetdsouza/zoxide
 [zoxide-lang]: https://img.shields.io/github/languages/top/ajeetdsouza/zoxide
+
+<!-- uutils -->
+
+[uutils]: https://uutils.github.io
+[gnu-coreutils]: https://www.gnu.org/software/coreutils
+[gnu-diffutils]: https://www.gnu.org/software/diffutils
+[gnu-findutils]: https://www.gnu.org/software/findutils
 
 <!--GH => GitHub -->
 <!--ST => Stars -->
