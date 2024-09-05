@@ -10,7 +10,7 @@
 |       [`cheat`][cheat]       | Create and view interactive cheatsheets on the command-line.                                                       | ![_][cheat-ghst] ![_][cheat-lang] ![_][cheat-ghlc]                   | <img alt="cheat-preview" width="300" src="./screenshots/cheat.png" />         |
 |        [`tldr`][tldr]        | A community effort to simplify `man` pages with practical examples.                                                | ![_][tldr-ghst] ![_][tldr-lang] ![_][tldr-ghlc]                      | <img alt="tldr-preview" width="300" src="./screenshots/tldr.png" />           |
 
-<h2 align="center">System Monitor Uitls</h2>
+<h2>System Monitor Uitls</h2>
 
 |             Name             | Description                                                                                                        | Status                                                               | Screenshot                                                                    |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@
 |     [`glances`][glances]     | A `top`/`htop` alternative for most operating systems.                                                             | ![_][glances-ghst] ![_][glances-lang] ![_][glances-ghlc]             | <img alt="glances-preview" width="300" src="./screenshots/glances.png" />     |
 |        [`gtop`][gtop]        | System monitoring dashboard for terminal.                                                                          | ![_][gtop-ghst] ![_][gtop-lang] ![_][gtop-ghlc]                      | <img alt="gtop-preview" width="300" src="./screenshots/gtop.gif" />           |
 
-<h2 align="center">GNU/*Nix Clone Utils</h2>
+<h2>GNU/*Nix Clone Utils</h2>
 
 |             Name             | Description                                                                                                        | Status                                                               | Screenshot                                                                    |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
@@ -43,7 +43,7 @@
 |      [`trashy`][trashy]      | a cli system trash manager, alternative to rm and trash-cli                                                        | ![_][trashy-ghst] ![_][trashy-lang] ![_][trashy-ghlc]                | <img alt="trashy-preview" width="300" src="./screenshots/trashy.gif" />       |
 |      [`zoxide`][zoxide]      | A smarter `cd` command inspired by `z`.                                                                            | ![_][zoxide-ghst] ![_][zoxide-lang] ![_][zoxide-ghlc]                | <img alt="zoxide-preview" width="300" src="./screenshots/zoxide.riff" />      |
 
-<h2 align="center">Network Utils</h2>
+<h2>Network Utils</h2>
 
 |             Name             | Description                                                                                                        | Status                                                               | Screenshot                                                                    |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@
 |    [`rustscan`][rustscan]    | The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). `nmap` alternative.                        | ![_][rustscan-ghst] ![_][rustscan-lang] ![_][rustscan-ghlc]          | <img alt="rustscan-preview" width="300" src="./screenshots/rustscan.gif" />   |
 |          [`xh`][xh]          | A friendly and fast tool for sending HTTP requests.                                                                | ![_][xh-ghst] ![_][xh-lang] ![_][xh-ghlc]                            | <img alt="xh-preview" width="300" src="./screenshots/xh.gif" />               |
 
-<h2 align="center">Git/Diff Utils</h2>
+<h2>Git/Diff Utils</h2>
 
 |             Name             | Description                                                                                                        | Status                                                               | Screenshot                                                                    |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@
 |   [`diffutils`][diffutils]   | Drop-in replacement of [`diffutils`][gnu-diffutils] in Rust (by [`uutils`][uutils])                                | ![_][diffutils-ghst] ![_][diffutils-lang] ![_][diffutils-ghlc]       | NA                                                                            |
 |     [`lazygit`][lazygit]     | simple terminal UI for git commands                                                                                | ![_][lazygit-ghst] ![_][lazygit-lang] ![_][lazygit-ghlc]             | <img alt="lazygit-preview" width="300" src="./screenshots/lazygit.gif" />     |
 
-<h2 align="center">Misc. Utils</h2>
+<h2>Misc. Utils</h2>
 
 |             Name             | Description                                                                                                        | Status                                                               | Screenshot                                                                    |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
