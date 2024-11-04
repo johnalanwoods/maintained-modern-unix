@@ -347,6 +347,10 @@
 [zoxide-ghst]: https://img.shields.io/github/stars/ajeetdsouza/zoxide
 [zoxide-lang]: https://img.shields.io/github/languages/top/ajeetdsouza/zoxide
 
+<!--difftastic -->
+
+[difftastic]: https://github.com/Wilfred/difftastic
+
 <!--GH => GitHub -->
 <!--ST => Stars -->
 <!--LC => Last Commit -->
