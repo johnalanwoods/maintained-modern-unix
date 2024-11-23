@@ -27,6 +27,7 @@
 |       [`broot`][broot]       | A new way to see and navigate directory `tree`s.                                                                   | ![_][broot-ghst] ![_][broot-lang] ![_][broot-ghlc]                   | <img alt="broot-preview" width="300" src="./screenshots/broot.png" />         |
 |      [`choose`][choose]      | A human-friendly and fast alternative to `cut` and (sometimes) `awk` .                                             | ![_][choose-ghst] ![_][choose-lang] ![_][choose-ghlc]                | <img alt="choose-preview" width="300" src="./screenshots/choose.png" />       |
 |   [`coreutils`][coreutils]   | Cross-platform Rust rewrite of the GNU [`coreutils`][gnu-coreutils] (by [`uutils`][uutils])                        | ![_][coreutils-ghst] ![_][coreutils-lang] ![_][coreutils-ghlc]       | NA                                                                            |
+|      [`diskus`][diskus]      | A minimal, fast alternative to `du -sh`.                                                                           | ![_][diskus-ghst] ![_][diskus-lang] ![_][diskus-ghlc]                | NA                                                                            |
 |         [`duf`][duf]         | A better `df` alternative.                                                                                         | ![_][duf-ghst] ![_][duf-lang] ![_][duf-ghlc]                         | <img alt="duf-preview" width="300" src="./screenshots/duf.png" />             |
 |        [`dust`][dust]        | A more intuitive version of `du` written in rust.                                                                  | ![_][dust-ghst] ![_][dust-lang] ![_][dust-ghlc]                      | <img alt="dust-preview" width="300" src="./screenshots/dust.png" />           |
 |         [`eza`][eza]         | A modern, maintained replacement for `ls`, built on `exa`.                                                         | ![_][eza-ghst] ![_][eza-lang] ![_][eza-ghlc]                         | <img alt="eza-preview" width="300" src="./screenshots/eza.png" />             |
@@ -156,6 +157,13 @@
 [diffutils-ghlc]: https://img.shields.io/github/last-commit/uutils/diffutils?label=
 [diffutils-ghst]: https://img.shields.io/github/stars/uutils/diffutils
 [diffutils-lang]: https://img.shields.io/github/languages/top/uutils/diffutils
+
+<!-- diskus -->
+
+[diskus]: https://github.com/sharkdp/diskus
+[diskus-ghst]: https://img.shields.io/github/stars/sharkdp/diskus
+[diskus-ghlc]: https://img.shields.io/github/last-commit/sharkdp/diskus
+[diskus-lang]: https://img.shields.io/github/languages/top/sharkdp/diskus
 
 <!--doggo -->
 
