@@ -162,7 +162,7 @@
 
 [diskus]: https://github.com/sharkdp/diskus
 [diskus-ghst]: https://img.shields.io/github/stars/sharkdp/diskus
-[diskus-ghlc]: https://img.shields.io/github/last-commit/sharkdp/diskus
+[diskus-ghlc]: https://img.shields.io/github/last-commit/sharkdp/diskus?label=
 [diskus-lang]: https://img.shields.io/github/languages/top/sharkdp/diskus
 
 <!--doggo -->
