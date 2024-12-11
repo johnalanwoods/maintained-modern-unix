@@ -62,7 +62,7 @@
 |       [`delta`][delta]       | A viewer for `git` and `diff` output.                                                                              | ![_][delta-ghst] ![_][delta-lang] ![_][delta-ghlc]                   | <img alt="delta-preview" width="300" src="./screenshots/delta.png" />         |
 |   [`diffutils`][diffutils]   | Drop-in replacement of [`diffutils`][gnu-diffutils] in Rust (by [`uutils`][uutils])                                | ![_][diffutils-ghst] ![_][diffutils-lang] ![_][diffutils-ghlc]       | NA                                                                            |
 |     [`lazygit`][lazygit]     | simple terminal UI for git commands                                                                                | ![_][lazygit-ghst] ![_][lazygit-lang] ![_][lazygit-ghlc]             | <img alt="lazygit-preview" width="300" src="./screenshots/lazygit.gif" />     |
-|     [`difftastic`][difftastic]     | a structural diff that understands syntax 🟥🟩                                                                                 |              | <img alt="difftastic-preview" width="300" src="./screenshots/difftastic.png" />     |
+|     [`difftastic`][difftastic]     | a structural diff that understands syntax 🟥🟩                                                               | ![_][difftastic-ghst] ![_][difftastic-lang] ![_][difftastic-ghlc]              | <img alt="difftastic-preview" width="300" src="./screenshots/difftastic.png" />     |
 
 <h2>Misc. Utils</h2>
 
@@ -350,6 +350,9 @@
 <!--difftastic -->
 
 [difftastic]: https://github.com/Wilfred/difftastic
+[difftastic-ghlc]: https://img.shields.io/github/last-commit/Wilfred/difftastic?label=
+[difftastic-ghst]: https://img.shields.io/github/stars/Wilfred/difftastic
+[difftastic-lang]: https://img.shields.io/github/languages/top/Wilfred/difftastic
 
 <!--GH => GitHub -->
 <!--ST => Stars -->
