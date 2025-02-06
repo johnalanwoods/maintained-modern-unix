@@ -70,7 +70,7 @@
 |       [`await`][await]       | 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination. | ![_][await-ghst] ![_][await-lang] ![_][await-ghlc]                   | <img alt="await-preview" width="300" src="./screenshots/await.gif" />         |
 |   [`hyperfine`][hyperfine]   | A command-line benchmarking tool.                                                                                  | ![_][hyperfine-ghst] ![_][hyperfine-lang] ![_][hyperfine-ghlc]       | <img alt="hyperfine-preview" width="300" src="./screenshots/hyperfine.gif" /> |
 |          [`jq`][jq]          | `sed` for JSON data.                                                                                               | ![_][jq-ghst] ![_][jq-lang] ![_][jq-ghlc]                            | <img alt="jq-preview" width="300" src="./screenshots/jq.png" />               |
-|    [`visidata`][visidata]    | pager/editor for data like CSV, JSON, SQLite, etc                                                                  | ![_][visidata-ghst] ![_][visidata-lang] ![_][visidata-ghlc]          | <img alt="visidata-preview" width="300" src="./screenshots/visidata.png" />   |
+|    [`visidata`][visidata]    | pager/editor for data like directories, CSV, JSON, SQLite, tar, zip, etc                                          | ![_][visidata-ghst] ![_][visidata-lang] ![_][visidata-ghlc]          | <img alt="visidata-preview" width="300" src="./screenshots/visidata.png" />   |
 
 
 <!--Links-->
