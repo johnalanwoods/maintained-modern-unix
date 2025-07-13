@@ -10,7 +10,7 @@
 |       [`cheat`][cheat]       | Create and view interactive cheatsheets on the command-line.                                                       | ![_][cheat-ghst] ![_][cheat-lang] ![_][cheat-ghlc]                   | <img alt="cheat-preview" width="300" src="./screenshots/cheat.png" />         |
 |        [`tldr`][tldr]        | A community effort to simplify `man` pages with practical examples.                                                | ![_][tldr-ghst] ![_][tldr-lang] ![_][tldr-ghlc]                      | <img alt="tldr-preview" width="300" src="./screenshots/tldr.png" />           |
 
-<h2>System Monitor Uitls</h2>
+<h2>System Monitor Utils</h2>
 
 |             Name             | Description                                                                                                        | Status                                                               | Screenshot                                                                    |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
