@@ -1,4 +1,4 @@
-<h1 align="center">Modern Unix</h1>
+<h1 align="center">A maintained list of modern (hyper fast) UNIX tools, to enhance the modern Linux and macOS terminal UX</h1>
 
 
 
